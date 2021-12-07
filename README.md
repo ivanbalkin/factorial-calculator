@@ -1,2 +1,2 @@
-factorial finding yyy
+factorial find
 
