@@ -9,7 +9,7 @@ public class Main {
             factorial = factorial * i;
                     }
         System.out.println("Факториал числа: " + factorial );
-        System.out.println("Хорошего дня!!!");
+        System.out.println("Приятно с вами работать");
 
     }
 }
