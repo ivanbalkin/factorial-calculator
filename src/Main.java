@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Автор: Иван Балкин");
         System.out.println("Введите число:");
+        int nothing = 0;
         int value = new Scanner(System.in).nextInt();
         int factorial = 1;
         for ( int i = 1; i <= value ; i = i + 1) {
