@@ -10,7 +10,7 @@ public class Main {
         for ( int i = 1; i <= value ; i = i + 1) {
             factorial = factorial * i;
                     }
-        System.out.println("Факториал числа: " + factorial );
+        System.out.println("Факториал числа равен: " + factorial );
         System.out.println("Приятно с вами работать");
 
     }
